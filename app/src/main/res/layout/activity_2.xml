@@ -45,6 +45,7 @@
         android:layout_marginTop="57dp"
         android:layout_marginEnd="166dp"
         android:layout_marginBottom="75dp"
+        android:backgroundTint="#BF360C"
         android:onClick="back"
         android:text="Back"
         app:layout_constraintBottom_toTopOf="@+id/tvName"
